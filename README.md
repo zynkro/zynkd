@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1>Hi, I'm Zynk</h1>
+<h3>Frontend web developer</h3>
 
-<!--
-**zynkd/zynkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+    <li>Currently learning about about FE web development</li>
+    <li>I am proficient in <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Bootstrap</strong>.</li>
+    <li>I am looking to collaborate on any projects that I might be helpful in.</li>
+    <li>You can find my personal website (portfolio) at <a href="https://zynkd.net" target="_blank" rel="noreferrer">zynkd.net</a></li>
+    <li>You can reach me at <a href="mailto:zynkd@mailbox.org" target="_blank" rel="noreferrer">zynkd@mailbox.org</a></li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Connect with me here</h3>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zynkd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zynkd/" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16367572/zynkd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16367572/zynkd" height="30" width="30" />
+</a>
+<h3>Languages and tools</h3>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch-linux" width="30" height="30" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="30" height="30" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" />
+</a>
+<a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="gnu-emacs" width="30" height="30" />
+</a>
