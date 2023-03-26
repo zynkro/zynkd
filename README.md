@@ -1,20 +1,20 @@
-<h1>Hi, I'm Zynk</h1>
-<h3>Frontend web developer</h3>
+<h1>Hey, I'm Zynk</h1>
+<h3>Senio SEO & Junior FE Web Developer</h3>
 
 <ul>
-    <li>Currently learning about about FE web development</li>
-    <li>I am proficient in <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Bootstrap</strong>.</li>
-    <li>I am looking to collaborate on any projects that I might be helpful in.</li>
-    <li>You can find my personal website (portfolio) at <a href="https://zynkd.net" target="_blank" rel="noreferrer">zynkd.net</a></li>
+    <li>I'm currently exploring ReactJS library</li>
+    <li>I am proficient in <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>SASS</strong>, <strong>Tailwind CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong> and <strong>ReactJS</strong></li>
+    <li>Feel free to reach out if you have any interestig projects to share</li>
+    <li>You can find more details about my work at <a href="https://zynk.tech" target="_blank" rel="noreferrer">zynk.tech</a></li>
     <li>You can reach me at <a href="mailto:zynkd@mailbox.org" target="_blank" rel="noreferrer">zynkd@mailbox.org</a></li>
 </ul>
 
-<h3>Connect with me here</h3>
+<h3>Connect With Me</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zynkd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zynkd/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16367572/zynkd" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16367572/zynkd" height="30" width="30" />
 </a>
-<h3>Languages and tools</h3>
+<h3>Languages & Tools</h3>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch-linux" width="30" height="30" />
 </a>
