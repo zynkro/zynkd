@@ -16,7 +16,7 @@
 </a>
 <h3>Languages & Tools</h3>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch-linux" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/349296/arch-linux.svg" alt="arch-linux" width="30" height="30" />
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="30" height="30" />
