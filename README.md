@@ -1,8 +1,8 @@
 <h1>Hey, I'm Zynk</h1>
-<h3>Senio SEO & Junior FE Web Developer</h3>
+<h3>Front-End Web Developer, Senior SEO</h3>
 
 <ul>
-    <li>I'm currently exploring ReactJS library</li>
+    <li>At present, I am actively delving into the ReactJS library to expand my knowledge and skills in this powerful framework</li>
     <li>I am proficient in <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>SASS</strong>, <strong>Tailwind CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong> and <strong>ReactJS</strong></li>
     <li>Feel free to reach out if you have any interestig projects to share</li>
     <li>You can find more details about my work at <a href="https://zynk.tech" target="_blank" rel="noreferrer">zynk.tech</a></li>
